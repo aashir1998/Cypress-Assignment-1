@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "cypress": "^10.8.0"
+  },
+  "scripts":{
+    "cypress:open_assignment1": "npx cypress open --env ENVIRONMENT=assignment1"
+}
+}
+
+
+
